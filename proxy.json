@@ -1,0 +1,6 @@
+{
+  "proxyUrl": "http://localhost:8080/",
+  "targets": {
+    "https://api.example.com/": "http://localhost:8080/"
+  }
+}
